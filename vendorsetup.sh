@@ -1,1 +1,1 @@
-add_lunch_combo d855-userdebug
+add_lunch_combo aosp_d855-userdebug
