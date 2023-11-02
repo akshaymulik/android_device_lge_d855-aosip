@@ -20,3 +20,5 @@ Release Date | July 2014
 
 
 ![LG G3 D855](http://i.imgur.com/sYNKEHq.jpg "LG G3 D855")
+Shipped Android Version | 7.1.1
+Storage | 32GB
